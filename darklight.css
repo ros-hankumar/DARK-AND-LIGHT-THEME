@@ -1,0 +1,15 @@
+body 
+{
+    text-align: center;
+    background-color: rgb(250, 248, 248);
+    color: black;
+}
+button 
+{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#theme:active
+{
+    background-color: aqua;
+}     
